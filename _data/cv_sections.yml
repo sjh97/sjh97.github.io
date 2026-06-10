@@ -1,0 +1,76 @@
+# 자동 생성 파일 — information.xlsx / profile.yml 를 수정하세요.
+sections:
+- title: Education
+  items:
+  - date: 2023.03 – Present
+    main: '**Ph.D.** in Graduate School of Artificial Intelligence, Pohang University of Science and Technology (Korea)'
+    sub: 'Advisor: Junsuk Rho'
+  - date: 2026.05 – 2027.02
+    main: '**Visiting Scholar** in Physics, Massachusetts Institute of Technology (USA)'
+    sub: 'Advisor: Marin Soljačić'
+  - date: 2024.10 – 2025.02
+    main: '**Visiting Scholar** in Electrical and Computer Engineering, Seoul National University (Korea)'
+    sub: 'Advisor: Sunkyu Yu'
+  - date: 2016.03 – 2023.02
+    main: '**B.S.** in Biosystems engineering, (Double major: Electrical and Computer Engineering), Seoul National University (Korea)'
+    sub: 'Advisor: Joongyong Rhee'
+- title: Skills
+  items:
+  - main: '**Programming Languages** — Python, C/C++, Java'
+  - main: '**Machine Learning Frameworks** — PyTorch'
+  - main: '**EM Wave Simulation Software** — FDTD (Lumerical, Meep), FEM (COMSOL Multiphysics), Geometric Optics (Zemax), RCWA'
+- title: Awards & Honors
+  items:
+  - date: '2023'
+    main: '**Graduated summa cum laude**, Seoul National University, Korea'
+  - date: '2022'
+    main: '**3rd place in 2022 SNU FastMRI Challenge**, Seoul National University, Korea'
+  - date: '2021'
+    main: '**Army Commendation Medal in Eighth United States Army**, U.S. Army, USA'
+  - date: '2021'
+    main: '**1st place in Deep Learning unmanned sales stand product recognition AI competition**, Seoul National University, Korea'
+- title: Scholarships
+  items:
+  - date: 2026 – 2027
+    main: '**2026 Overseas Dispatch Support Program for Graduate Students**, Pohang University of Science and Technology, Korea (KRW 20,000,000 / 10 months)'
+  - date: 2025 – 2027
+    main: '**Hyundai Motor Chung Mong-Koo Scholarship**, Hyundai Motor Chung Mong-Koo Foundation, Korea'
+  - date: 2025 – 2027
+    main: '**NRF Ph.D. Fellowship**, National Research Foundation, Korea'
+  - date: 2016 – 2022
+    main: '**National Science & Technology Full-ride Scholarship**, Korea Student Aid Foundation, Korea'
+- title: Conference Presentations
+  items:
+  - date: October 2025
+    main: SES Annual Technical Meeting, Atlanta, USA
+  - date: October 2025
+    main: Future Challenges for Nanophotonic Scattering, Bad Herrenalb, Germany
+  - date: September 2024
+    main: Metamaterials, Crete, Greece
+- title: Patents
+  items:
+  - date: '2024.12'
+    main: generative model for design of metamaterials, metamaterial design method, and computer-readable storage medium for storing data to drive the generative model
+    sub: '**Jehyeon Shin**, Jeonghoon Park, Jaebum Noh, Junsuk Rho · Application No. 10-2024-0183150 · Domestic, Pending'
+  - date: '2024.11'
+    main: dissolvable biomemristor and manufacturing methods thereof
+    sub: '**Jehyeon Shin**, Jaebum Noh, Junsuk Rho · Application No. 10-2024-0161466 · Domestic, Pending'
+- title: Teaching
+  items:
+  - date: 2025-1
+    main: Deep Learning (AIGS538)
+    sub: Teaching Assistant
+  - date: 2024-1
+    main: Object-Oriented Programming (CSED232)
+    sub: Teaching Assistant
+- title: Professional Service
+  items:
+  - main: '**Advanced Photonics NEXUS** — 1 review'
+  - main: '**Optics express** — 1 review'
+  - main: '**npj Nanophotonics** — 1 review'
+  note: Journal peer review (verified by ORCID)
+- title: Press & Broadcast
+  items:
+  - date: '2025.01'
+    main: '"Investigating Static and Dynamic Behaviors in 3D Chiral Mechanical Metamaterials by Disentangled Generative Models"'
+    sub: '[Donga Science](https://www.dongascience.com/news.php?idx=69579), [E-science](https://www.e-science.co.kr/news/articleView.html?idxno=101179), [Kyosu News](https://www.kyosu.net/news/articleView.html?idxno=130204), [The Electronic Times](https://www.electimes.com/news/articleView.html?idxno=349256)'

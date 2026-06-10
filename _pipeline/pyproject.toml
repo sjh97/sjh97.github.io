@@ -1,0 +1,10 @@
+[project]
+name = "alfolio-cv-pipeline"
+version = "0.1.0"
+description = "Generate al-folio site content from information.xlsx (CV master data)"
+requires-python = ">=3.10"
+dependencies = [
+    "pandas>=2.0",
+    "openpyxl>=3.1",
+    "pyyaml>=6.0",
+]

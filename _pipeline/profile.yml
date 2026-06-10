@@ -1,0 +1,69 @@
+# =============================================================================
+#  사이트 전용 정보 (information.xlsx 에 없는 항목)
+# -----------------------------------------------------------------------------
+#  이 파일은 "가끔 한 번씩만" 손보면 되는 곳입니다.
+#  - 자기소개, 연구 관심사, 스킬, 소셜 링크, 사진 파일명 등.
+#  논문/수상/특허/학회/리뷰/강의 같은 정보는 OneDrive 의 information.xlsx 에서
+#  관리하면 파이프라인이 자동으로 홈페이지에 반영합니다.
+# =============================================================================
+
+# --- 기본 신원 ---------------------------------------------------------------
+name: Jehyeon Shin
+position: Ph.D. Student
+affiliation: Graduate School of Artificial Intelligence, POSTECH
+email: tlswpgus22@postech.ac.kr
+photo: prof_pic.jpg          # assets/img/ 안의 사진 파일명 (이 파일로 교체하세요)
+
+# --- about 페이지 제목 밑 한 줄 소개 -----------------------------------------
+subtitle: >
+  Ph.D. Student · Graduate School of Artificial Intelligence, POSTECH ·
+  Advised by Prof. Junsuk Rho
+
+# --- 자기소개 본문 (Markdown 사용 가능) --------------------------------------
+#  아래는 초안입니다. 자유롭게 수정하세요.
+bio: |
+  I am a Ph.D. student at the **Graduate School of Artificial Intelligence, POSTECH**,
+  where I am advised by **Prof. Junsuk Rho**. My research lies at the intersection of
+  **nanophotonics** and **artificial intelligence**: I develop deep-learning and
+  generative models for the **inverse design of metamaterials and metasurfaces**,
+  aiming to discover optical and mechanical structures that are difficult to find with
+  conventional approaches.
+
+  Before joining POSTECH, I received my B.S. in Biosystems Engineering (double major in
+  Electrical and Computer Engineering) from **Seoul National University**, graduating
+  *summa cum laude*.
+
+  I am broadly interested in metasurfaces, photonic and mechanical metamaterials,
+  electromagnetic simulation, and data-driven design.
+
+# --- 연구 관심사 (about 페이지에 표시) ---------------------------------------
+research_interests:
+  - Metamaterials & metasurfaces
+  - Nanophotonics
+  - Deep learning & generative models for inverse design
+  - Electromagnetic simulation (FDTD, FEM, RCWA)
+
+# --- Skills (CV 의 Skills 섹션 — 엑셀에 없어 여기서 관리) ---------------------
+skills:
+  - category: Programming Languages
+    items: Python, C/C++, Java
+  - category: Machine Learning Frameworks
+    items: PyTorch
+  - category: EM Wave Simulation Software
+    items: FDTD (Lumerical, Meep), FEM (COMSOL Multiphysics), Geometric Optics (Zemax), RCWA
+
+# --- 소셜 / 외부 링크 ---------------------------------------------------------
+#  값을 채우면 about 페이지 하단에 아이콘이 표시됩니다. 비워두면 표시 안 됩니다.
+socials:
+  email: tlswpgus22@postech.ac.kr
+  scholar_userid: M3-4TWgAAAAJ          # Google Scholar ID (프로필 URL 의 user= 뒷부분)
+  orcid_id: 0009-0009-1315-0773         # ORCID
+  github_username: sjh97
+  linkedin_username: jehyeon-shin-416b9b269   # linkedin.com/in/<여기> 부분
+  researchgate:                         # ResearchGate 프로필명 (없음)
+
+# --- Selected publications (about 페이지 상단 강조) --------------------------
+#  강조하고 싶은 논문의 DOI 를 적으세요. 비워두면 강조 목록이 안 나옵니다.
+selected_dois:
+  - 10.1002/adfm.202412901
+  - 10.1038/s44310-024-00029-2
