@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-06'
+  last_updated: '2026-07-08'
 papers:
   M3-4TWgAAAAJ:LkGwnXOMwfcC:
     citations: 1
@@ -9,10 +9,10 @@ papers:
     citations: 0
     title: Engineering Hybrid Resonances in Nanophotonics
     year: '2026'
-  M3-4TWgAAAAJ:UeHWp8X0CEIC:
+  M3-4TWgAAAAJ:UebtZRa9Y70C:
     citations: 0
-    title: Underwater Willis lens for broadband low-frequency focusing
-    year: '2025'
+    title: Locally resonant underwater lens for broadband waterborne sound focusing
+    year: '2026'
   M3-4TWgAAAAJ:W7OEmFMy1HYC:
     citations: 13
     title: Electrically tunable metasurfaces for broadband beam splitting across the visible spectrum
