@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-07-08'
+  last_updated: '2026-07-15'
 papers:
   M3-4TWgAAAAJ:LkGwnXOMwfcC:
     citations: 1
@@ -22,10 +22,10 @@ papers:
     title: Investigating static and dynamic behaviors in 3D chiral mechanical metamaterials by disentangled generative models
     year: '2025'
   M3-4TWgAAAAJ:u-x6o8ySG0sC:
-    citations: 48
+    citations: 49
     title: 'Realization of high-performance optical metasurfaces over a large area: a review from a design perspective'
     year: '2024'
   M3-4TWgAAAAJ:u5HHmVD_uO8C:
-    citations: 6
+    citations: 7
     title: Dissolvable flexible biomemristor based on a collagen electrolyte and Mg electrodes for transient electronics
     year: '2024'
